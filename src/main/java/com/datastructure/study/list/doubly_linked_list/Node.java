@@ -1,8 +1,6 @@
-package com.datastructure.study.linked_list.doubly_linked_list;
+package com.datastructure.study.list.doubly_linked_list;
 
 import lombok.ToString;
-
-import java.lang.annotation.Target;
 
 @ToString
 public class Node<E> {

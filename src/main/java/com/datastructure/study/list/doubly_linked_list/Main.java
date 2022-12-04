@@ -1,4 +1,4 @@
-package com.datastructure.study.linked_list.doubly_linked_list;
+package com.datastructure.study.list.doubly_linked_list;
 
 public class Main {
 
