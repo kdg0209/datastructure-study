@@ -10,10 +10,14 @@ public class Main {
         arrayList.add(3);
         arrayList.add(4);
         arrayList.add(5);
+        arrayList.add(6);
+        arrayList.add(7);
+        arrayList.add(8);
+        arrayList.add(9);
+        arrayList.add(10);
         arrayList.print();
 
-
-        arrayList.add(1, 6);
+        arrayList.remove(4);
         arrayList.print();
 
 

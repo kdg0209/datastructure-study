@@ -56,7 +56,7 @@ public class ArrayList<E> implements List<E>{
             throw new IndexOutOfBoundsException();
         }
         elements[index] = null;
-        for (int i = index; i < size; i++) {
+        for (int i = index; i < size -1; i++) {
             elements[i] = elements[i + 1];
             elements[i + 1] = null;
         }
