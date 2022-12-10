@@ -1,4 +1,4 @@
-package com.datastructure.study.list.singly_linked_list;
+package com.datastructure.study.list.singlylinkedlist;
 
 public class Main {
 

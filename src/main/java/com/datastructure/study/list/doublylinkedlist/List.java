@@ -1,4 +1,4 @@
-package com.datastructure.study.list.doubly_linked_list;
+package com.datastructure.study.list.doublylinkedlist;
 
 public interface List<E> {
 

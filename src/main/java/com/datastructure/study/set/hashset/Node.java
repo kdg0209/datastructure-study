@@ -1,4 +1,4 @@
-package com.datastructure.study.set.hash_set;
+package com.datastructure.study.set.hashset;
 
 public class Node<E> {
 

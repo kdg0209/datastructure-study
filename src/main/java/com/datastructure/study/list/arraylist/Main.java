@@ -1,4 +1,4 @@
-package com.datastructure.study.list.array_list;
+package com.datastructure.study.list.arraylist;
 
 public class Main {
 
